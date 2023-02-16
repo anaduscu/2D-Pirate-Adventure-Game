@@ -1,4 +1,4 @@
-# 2D-Pirate-Adventure-Game
+# Pirate-Adventure-Game
 ## OOP-based adventure game 
 developed in Java Swing to demonstrate the main OOP concepts
 
