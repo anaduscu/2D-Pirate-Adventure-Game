@@ -1,3 +1,3 @@
 # 2D-Pirate-Adventure-Game
 
-execute GAmeManager.java to run the game
+execute GameManager.java to run the game
