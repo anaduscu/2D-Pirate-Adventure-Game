@@ -1,3 +1,6 @@
 # 2D-Pirate-Adventure-Game
+## OOP-based adventure game 
+developed in Java Swing to demonstrate the main OOP concepts
 
-execute GameManager.java to run the game
+## Running the game
+To run the game cd into project foler and run command "javac *.java" followed by "java GameManager.java" 
